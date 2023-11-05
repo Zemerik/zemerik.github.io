@@ -15,6 +15,11 @@ header {
   height: 100vh;
 }
 
+.favicon {
+  border-radius: 50%;
+  shape-margin: 50%;
+}
+
 .container {
   max-width: 1200px;
   width: 90%;
@@ -48,6 +53,7 @@ header {
 .menu-items li {
   list-style: none;
   padding: 1rem;
+  align-items: right;
 }
 
 .menu-items a {
@@ -78,10 +84,38 @@ header {
 
 .discord {
   position: absolute;
-  margin-right: 1000;
-  margin-top: 350px;
+  display: block;
+  margin-left: 490px;
+  margin-top: 420px;
   height: 75px;
   width: 75px;
+}
+
+.github {
+  position: absolute;
+  display: block;
+  margin-left: 570px;
+  margin-top: 435px;
+  height: 45px;
+  width: 45px;
+}
+
+.x {
+  position: absolute;
+  display: block;
+  margin-left: 635px;
+  margin-top: 435px;
+  height: 45px;
+  width: 45px;
+}
+
+.mail {
+  position: absolute;
+  display: block;
+  margin-left: 700px;
+  margin-top: 435px;
+  height: 45px;
+  width: 45px;
 }
 
 .home-content .name {
@@ -89,13 +123,13 @@ header {
   top: 60%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: #07374a;
+  color: #ecf0f1;
   width: 100%;
   text-align: center;
   width: 100%;
   height: 100%;
   background-size: cover;
-  background-image: url(https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif);
+  background-image: url(assests/banner3.gif);
 }
 
 .home-content .name h1 {
@@ -112,7 +146,7 @@ header {
 
 .angle-down-icon {
   position: absolute;
-  bottom: 10%;
+  bottom: 5%;
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 2rem;
@@ -125,7 +159,7 @@ header {
   text-decoration: none;
   color: orange;
   padding: 1rem;
-  margin-top: 80px;
+  margin-top: 90px;
 }
 
 /* ////........About Me........//// */
@@ -178,6 +212,11 @@ header {
 }
 
 /* ///.....Skill Bar....../// */
+
+.my-skills {
+  background-color: #2ea18e;
+  text-align: left;
+}
 
 .skills-bar {
   padding: 25px 30px;
@@ -357,7 +396,7 @@ header {
 
 .proj-1 img {
   height: 330px;
-  width: 380px;
+  width: 330px;
   object-fit: cover;
   border-radius: 50%;
   box-shadow: 0 20px 10px -10px rgb(37 41 52 / 31%);
@@ -428,7 +467,7 @@ header {
 
 .proj-2 img {
   height: 330px;
-  width: 380px;
+  width: 330px;
   object-fit: cover;
   border-radius: 50%;
   box-shadow: 0 20px 10px -10px rgb(37 41 52 / 31%);
@@ -486,6 +525,82 @@ header {
 .proj-2 .proj2-details button:hover a,
 .proj-2 .proj2-details button:hover .fas {
   color: #f0f0e6;
+}
+
+.proj-2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3rem;
+}
+
+.proj-3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3rem;
+}
+
+.proj-3 img {
+  height: 330px;
+  width: 330px;
+  object-fit: cover;
+  border-radius: 50%;
+  box-shadow: 0 20px 10px -10px rgb(37 41 52 / 31%);
+  margin-right: 1.7rem;
+}
+
+.proj-3 .proj3-details {
+  width: 32rem;
+}
+
+.proj-3 .proj3-details i {
+  font-size: 1.5rem;
+  color: #07374a;
+}
+
+.proj-3 .proj3-details h2 {
+  font-size: 2rem;
+  color: #07374a;
+}
+
+.proj-3 .proj3-details p {
+  font-size: 1.3rem;
+  color: #07374a;
+  font-weight: 600;
+}
+
+.proj-3 .proj3-details button {
+  background: #f0f0e6;
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  width: 150px;
+  border: none;
+  border-bottom: 2px solid #07374a;
+}
+
+.proj-3 .proj3-details button a {
+  text-decoration: none;
+  color: #07374a;
+  font-size: 1.1rem;
+  transition: 0.2s ease-in-out;
+  text-align: center;
+  transition: 0.3s ease-in-out;
+}
+
+.proj-3 .proj3-details button .fas {
+  font-size: 0.7rem;
+  padding: 0.3rem;
+  transition: 0.2s ease-in-out;
+}
+
+.proj-3 .proj3-details button:hover {
+  background: #07374a;
+}
+
+.proj-3 .proj3-details button:hover a, 
+.proj-3 .proj3-details button:hover .fas {
+  color: #f0f0e6
 }
 
 .more-work {
@@ -738,7 +853,16 @@ header {
 
   .contact-content {
     width: 100%;
+    display: flex;
+    flex-direction: column;
   }
+
+  .discordicon {
+    position: absolute;
+    display: block;
+    margin-bottom: 20%;
+  }
+
 }
 
 @media (orientation: landscape) and (max-height: 500px) {
