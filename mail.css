@@ -1,0 +1,13 @@
+.screen {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #ecf0f1;
+    width: 100%;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-color: rgb(87, 87, 168);
+  }
