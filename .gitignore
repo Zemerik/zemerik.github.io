@@ -1,5 +1,16 @@
+# vscode - Unnecessary vscode files
 vscode/launch.json
+
+# assests - Unnecessary images/gifs
 assests/banner.gif
 assests/banner2.gif
 assests/snapchat.png
 assests/Synth.jpg
+
+#cname - Unnecessary CNAME files
+cname
+biodrop.html
+github.html
+mail.css
+mail.html
+sports-stadium.html
