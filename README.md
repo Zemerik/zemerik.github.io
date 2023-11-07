@@ -21,7 +21,7 @@ git clone https://github.com/Zemerik/zemerik.github.io
 ### Deleting Unecessary Files: 
 
 - Visit the [.gitignore](https://github.com/Zemerik/zemerik.github.io/blob/main/.gitignore) file to delete unwanted files
-> Note: If you decide to keep the unnecessary .html files with your CNAME without changing the link, it would be a **VIOLATION** of one of the above [Conditions](https://github.com/Zemerik/zemerik.github.io/blob/main/README.md#Conditions)
+> Note: If you decide to keep the unnecessary .html files with your CNAME without changing the link, it would be a **VIOLATION** of one of the above [Conditions](https://github.com/Zemerik/zemerik.github.io/blob/main/README.md#conditions)
 
 ### Editing:
 
