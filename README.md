@@ -25,7 +25,7 @@ git clone https://github.com/Zemerik/zemerik.github.io
 
 ### Editing:
 
-- You can now make your desired changes to the website; ensure that your Portfolio meets the [Conditions](https://github.com/Zemerik/zemerik.github.io/blob/main/README.md#Conditions)
+- You can now make your desired changes to the website; ensure that your Portfolio meets the [Conditions](https://github.com/Zemerik/zemerik.github.io/blob/main/README.md#conditions)
 
 
 ## 🫂Issues & Contributions:
