@@ -14,3 +14,6 @@ github.html
 mail.css
 mail.html
 sports-stadium.html
+
+#.well-known - Unnecessary discord file needed to verify my discord connection
+.well-known/discord
