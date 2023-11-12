@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Sacramento');
 body {
 background-image: url(assests/background.jpg);
+background-size: cover;
 font-family: 'Sacramento', cursive;
 }
 .container {
