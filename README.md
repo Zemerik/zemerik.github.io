@@ -10,7 +10,8 @@
 
 ## USAGE:
 
-- Feel Free to use my portfolio as a template for yours, however the **distribution of images and information is not allowed in any form.** 
+- Feel Free to use my portfolio as a template for yours, however the **distribution of images and information is not allowed in any form.**
+- Proper Credit must be given in either your website or your website's README.md
 
 ### CLONING:
 
@@ -19,5 +20,13 @@
 ```
 git clone https://github.com/Zemerik/zemerik.github.io
 ```
+
+### DELETING:
+
+- Visit the [.gitignore](https://github.com/Zemerik/zemerik.github.io/blob/main/.gitignore) file to delete any unecessary files. 
+
+### CUSTOMIZING:
+
+- You can now customize your portfolio as you like!!
 
 #### Thanks for visiting. Don't forget to leave a ⭐
