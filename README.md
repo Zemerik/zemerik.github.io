@@ -2,7 +2,7 @@
 
 ## NOTE:
 
-- This is not the latest version of my portfolio. You can see the live demo of that portfolio [here](https://zemerik.vercel.app) and view the Repository [here](https://github.com/Portfolio).
+- This is not the latest version of my portfolio. You can see the live demo of that portfolio [here](https://zemerik.vercel.app) and view the Repository [here](https://github.com/Zemerik/Portfolio-v2).
 
 ## TECHNOLIGIES USED: 
 
