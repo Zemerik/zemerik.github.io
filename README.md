@@ -6,12 +6,6 @@
 
 <div align = "center">
 
-  [zemerik.is-a.dev](https://zemerik.is-a.dev)
-
-</div>
-
-<div align = "center">
-
 ![Tools](https://skillicons.dev/icons?i=javascript,css,html,vscode,github&perline=25)
 
 ![Screenshot](assests/screenshot.png)
@@ -24,6 +18,8 @@
 ## About:
 
 This is the source code for the previous version of my portfolio and my website, zemerik.is-a.dev. It was developed using JavaScript, CSS, and HTML. The project showcases my skills in web development. It serves as a testament to my ability to create functional and visually appealing websites.
+
+> - View my Website [here](https://zemerik.is-a.dev)
 
 ## FEATURES:
 
