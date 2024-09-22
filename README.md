@@ -1,19 +1,24 @@
+<p align = "center">
+
+<img src = "assets/config/icon.png" style = "height:250px;width:250px">
+
+</p>
+
 <h1 align = "center">
-  
-  WELCOME TO MY [PORTFOLIO](https://zemerik.is-a.dev/)
+
+zemerik.github.io - [Website](https://zemerik.is-a.dev)
 
 </h1>
 
 <div align = "center">
 
-![Tools](https://skillicons.dev/icons?i=javascript,css,html,vscode,github&perline=25)
-
-![Screenshot](assests/screenshot.png)
+![Tools](https://skillicons.dev/icons?i=html,css,javascript,scss,vscode,github&perline=25)
 
 </div>
 
-> [!NOTE]
-> This is not the latest version of my portfolio. You can see the live demo of that portfolio [here](https://zemerik.vercel.app) and view the Repository [here](https://github.com/Zemerik/Portfolio-v2).
+<p align = "center">
+  <img src = "assets/config/screenshot_laptop.png" alt = "Laptop Screenshot" />
+</p>
 
 ## About:
 
@@ -23,13 +28,28 @@ This is the source code for the previous version of my portfolio and my website,
 
 ## FEATURES:
 
-🎩 Responsive Navbar with Icons and hover effects
 
-🤯 Light and Dark Mode
+<table align = "center">
+  <tr>
+    <td>
+      🎩 Responsive Navbar with Icons and hover effects
+      <br>
+      <br>
+      🤯 Light & Dark Mode
+      <br>
+      <br>
+      ⚡ CSS effects such as Animation, Transition and Hover for different sections.
+      <br>
+      <br>
+        🏆 Appealing Icons for different Links
+    </td>
+    <td>
 
-⚡ CSS effects such as Animation, Transition and Hover for different sections. 
+  <img src = "assets/config/screenshot_phone.png" style = "height: 400px; width: 250px">
+    </td>
+  </tr>
+</table>
 
-🏆 Appealing Icons for different Links
 
 ## USAGE:
 
@@ -44,6 +64,9 @@ git clone https://github.com/Zemerik/zemerik.github.io
 > [!Caution]
 > Use or Distribution of any private information such as Images, Name, Information, CNAME, etc is not permitted. 
 
+## CONTRIBUTING:
+
+Contributions are always welcome and appreciated. Feel free to create an Issue or Pull - Request for any fixes, bug reports, feature request or more. 
 
 <h1 align = "center">
   Thanks for Visiting🙏

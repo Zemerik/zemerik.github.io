@@ -1,0 +1,113 @@
+.footer {
+    position: relative;
+    background-color: #000;
+    font-family: "Roboto Slab", sans-serif;
+    color: #fff;
+  
+    .flex-row {
+      margin-top: 2rem;
+      margin-right: 1rem;
+      display: flex;
+      justify-content: center;
+      gap: 10rem;
+  
+      .flex-col {
+        display: flex;
+        flex-flow: column;
+  
+        align-items: center;
+        width: 30%;
+      }
+      p {
+        width: 55%;
+        // margin: 0rem 0 0 2.8rem;
+        text-align: left;
+        font-size: 1rem;
+        padding-left: 1rem;
+      }
+      a {
+        width: 5%;
+        font-size: 1rem;
+        margin-right: 3.5rem;
+        transition: transform 0.2s;
+        text-decoration: none;
+        color: white;
+  
+        &:hover {
+          transform: scale(1.1);
+          color: #05b59e;
+        }
+      }
+    }
+  
+    .footer-bottom {
+      margin-top: 0rem;
+      margin-right: 1.5rem;
+      display: flex;
+      justify-content: center;
+      .lottie {
+        height: 3rem;
+        width: 3rem;
+      }
+    }
+  
+    .circle {
+      margin: 3rem 0.5rem 0 0;
+      bottom: 20px;
+      right: 20px;
+      width: 40px;
+      height: 40px;
+      background-color: #282c34;
+      border-radius: 50%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      cursor: pointer;
+    }
+  
+    /* Styles for the upwards-pointing arrow icon */
+    .arrow-icon {
+      width: 8px;
+      height: 8px;
+      border: 2px solid #fff;
+      border-width: 0 2px 2px 0;
+      transform: rotate(-135deg);
+      margin-top: 1px;
+    }
+  
+    @media screen and (device-width: 540px) and (device-height: 720px) {
+      .flex-row {
+        gap: 1rem;
+        .flex-col {
+          width: 60%;
+        }
+        p {
+          width: 70%;
+        }
+      }
+    }
+  
+    @media screen and (max-width: 415px) {
+      .flex-row {
+        gap: 1rem;
+        .flex-col {
+          width: 60%;
+        }
+        p {
+          width: 70%;
+        }
+      }
+    }
+  
+    @media screen and (max-width: 376px) {
+      .flex-row {
+        gap: 1rem;
+        .flex-col {
+          width: 60%;
+        }
+        p {
+          width: 70%;
+        }
+      }
+    }
+  }
