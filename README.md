@@ -12,7 +12,7 @@ zemerik.github.io - [Website](https://zemerik.is-a.dev)
 
 <div align = "center">
 
-![Tools](https://skillicons.dev/icons?i=html,css,javascript,scss,vscode,github&perline=25)
+![Tools](https://skillicons.dev/icons?i=html,css,javascript,typescript,scss,vscode,github&perline=25)
 
 </div>
 
