@@ -1,79 +1,98 @@
-<p align = "center">
-
-<img src = "assets/config/icon.png" style = "height:250px;width:250px">
-
+<p align="center">
+  <img src="assets/branding.png
+  " width="200" height="200" alt="Branding">
 </p>
 
-<h1 align = "center">
+<h1 align="center">Hemang Yadav (Zemerik)</h1>
 
-zemerik.github.io - [Website](https://zemerik.is-a.dev)
+<p align="center">
+  <strong>Full Stack Developer | Open Source Enthusiast | Building in Public</strong>
+</p>
 
-</h1>
+<p align="center">
+  <a href="https://zemerik.is-a.dev"><strong>🌐 Visit Website</strong></a>
+  &nbsp;|&nbsp;
+  <a href="#-features">Features</a>
+  &nbsp;|&nbsp;
+  <a href="#-installation">Installation</a>
+  &nbsp;|&nbsp;
+  <a href="#-contributing">Contributing</a>
+</p>
 
-<div align = "center">
+<div align="center">
 
-![Tools](https://skillicons.dev/icons?i=html,css,javascript,typescript,scss,vscode,github&perline=25)
+![Tech Stack](https://skillicons.dev/icons?i=html,css,javascript,ts,react,nextjs,python,cpp,vscode,github&perline=15&theme=dark)
 
 </div>
 
-<p align = "center">
-  <img src = "assets/config/screenshot_laptop.png" alt = "Laptop Screenshot" />
-</p>
+---
 
-## About:
+## 🚀 About The Project
 
-This is the source code for the previous version of my portfolio and my website, zemerik.is-a.dev. It was developed using JavaScript, CSS, and HTML. The project showcases my skills in web development. It serves as a testament to my ability to create functional and visually appealing websites.
+Welcome to the **v2.1.1** source code of my personal portfolio. This project is a testament to my journey as a developer, showcasing my skills, projects, and passion for creating beautiful, functional web experiences.
 
-> - View my Website [here](https://zemerik.is-a.dev)
+Designed with a **Glassmorphism** aesthetic, it features a modern UI, persistent dark mode, and smooth animations, providing an immersive experience for visitors.
 
-## FEATURES:
+### ✨ Features
 
+*   **🎨 Glassmorphism Design**: sleek, modern interface with blur effects and vibrant gradients.
+*   **🌗 Persistent Dark Mode**: Your preference is saved automatically.
+*   **⚡ High Performance**: Optimized for speed and smooth scrolling.
+*   **📱 Fully Responsive**: Flawless experience on Mobile, Tablet, and Desktop.
+*   **🔥 Interactive Elements**: Dynamic project cards, hover effects, and animated sections.
 
-<table align = "center">
-  <tr>
-    <td>
-      🎩 Responsive Navbar with Icons and hover effects
-      <br>
-      <br>
-      🤯 Light & Dark Mode
-      <br>
-      <br>
-      ⚡ CSS effects such as Animation, Transition and Hover for different sections.
-      <br>
-      <br>
-        🏆 Appealing Icons for different Links
-    </td>
-    <td>
+---
 
-  <img src = "assets/config/screenshot_phone.png" style = "height: 400px; width: 250px">
-    </td>
-  </tr>
-</table>
+## 🛠️ Installation & Setup
 
+Want to run this portfolio locally? Follow these steps:
 
-## USAGE:
+1.  **Clone the Repository**
+    ```bash
+    git clone https://github.com/Zemerik/zemerik.github.io.git
+    ```
 
-- Use GIT to store the files of this Repository on your machine:
+2.  **Navigate to the Directory**
+    ```bash
+    cd zemerik.github.io
+    ```
 
-```
-git clone https://github.com/Zemerik/zemerik.github.io
-```
+3.  **Open in Browser**
+    Simply open the `index.html` file in your preferred browser.
+    *Optional: Use the "Live Server" extension in VS Code for hot-reloading.*
 
-- You can now customise the portfolio as you like. 
+---
 
-> [!Caution]
-> Use or Distribution of any private information such as Images, Name, Information, CNAME, etc is not permitted. 
+## 🤝 Contributing
 
-## CONTRIBUTING:
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-Contributions are always welcome and appreciated. Feel free to create an Issue or Pull - Request for any fixes, bug reports, feature request or more. 
+Please verify the [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
-<h1 align = "center">
-  Thanks for Visiting🙏
-</h1>
+1.  Fork the Project
+2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4.  Push to the Branch (`git push origin feature/AmazingFeature`)
+5.  Open a Pull Request
 
-<p align = "center">
-  Don't forget to leave a ⭐
-  <br>
-  Made with 💖 by <a href = "https://github.com/Zemerik">Hemang Yadav (Zemerik)</a>
+---
+
+## 📜 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+---
+
+## 💁 Support
+
+For questions, support, or just to connect, feel free to join our **Discord Server**:
+
+<a href="https://discord.gg/UF9KsmuGbr">
+  <img src="https://invidget.switchblade.xyz/UF9KsmuGbr" alt="Discord Server">
+</a>
+
+---
+
+<p align="center">
+  Made with 💖 by <a href="https://github.com/Zemerik">Hemang Yadav (Zemerik)</a>
 </p>

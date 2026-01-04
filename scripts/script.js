@@ -61,9 +61,33 @@ var swiper = new Swiper(".mySwiper", {
 /*========== dark light mode ==========*/
 let darkModeIcon = document.querySelector('#darkMode-icon');
 
+// Function to enable dark mode
+const enableDarkMode = () => {
+    document.body.classList.add('dark-mode');
+    darkModeIcon.classList.remove('bx-moon');
+    darkModeIcon.classList.add('bx-sun');
+    localStorage.setItem('darkMode', 'enabled');
+};
+
+// Function to disable dark mode
+const disableDarkMode = () => {
+    document.body.classList.remove('dark-mode');
+    darkModeIcon.classList.remove('bx-sun');
+    darkModeIcon.classList.add('bx-moon');
+    localStorage.setItem('darkMode', null);
+};
+
+// Check storage on load
+if (localStorage.getItem('darkMode') === 'enabled') {
+    enableDarkMode();
+}
+
 darkModeIcon.onclick = () => {
-    darkModeIcon.classList.toggle('bx-sun');
-    document.body.classList.toggle('dark-mode');
+    if (document.body.classList.contains('dark-mode')) {
+        disableDarkMode();
+    } else {
+        enableDarkMode();
+    }
 };
 
 
